@@ -1,4 +1,5 @@
-
+// This an example of scheduling 2 tasks using DEADLINE MONOTONIC | FIFO-SCHED | ROUND ROBIN 
+// All tasks schould begin at instant 0
 #include <stdio.h>
 #include <stdlib.h>
 #include "task.h"
